@@ -1,6 +1,6 @@
 # Hi, I'm Mustafa Muhammad
 
-**Software Engineer · Abu Dhabi, UAE**
+**Software & AI Engineer · Abu Dhabi, UAE**
 
 I build AI-powered applications and business systems, alongside web and mobile products, backend services, and real-time infrastructure. I'm also CTO of the Robotics Club at 42 Abu Dhabi.
 
@@ -36,4 +36,4 @@ I use **Claude Code and Codex** extensively in an **AI-assisted development** wo
 
 Open to software engineering opportunities across the **UAE** and with **remote teams**.
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/mustafa-mohammed-88a6463aa/)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/mustafa-muhammad-88a6463aa/)
